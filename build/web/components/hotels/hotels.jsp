@@ -56,11 +56,11 @@
                         <div class="col-md-6 col-xs-12">
                             <select id="cat" class="form-control">
                                 <option>Other</option>
-                                <option>1 Star</option>
-                                <option>2 Star</option>
-                                <option>3 Star</option>
-                                <option>4 Star</option>
-                                <option>5 Star</option>
+                                <option>One Star</option>
+                                <option>Two Star</option>
+                                <option>Three Star</option>
+                                <option>Four Star</option>
+                                <option>Five Star</option>
                             </select>
                         </div>
                     </div>
